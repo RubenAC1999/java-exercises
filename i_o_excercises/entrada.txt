@@ -1,0 +1,6 @@
+Nombre: Pepe
+Edad: 22
+Ciudad: Madrid
+Nombre: Rubén
+Edad: 25
+Ciudad: Noia
